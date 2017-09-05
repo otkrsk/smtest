@@ -1,0 +1,3 @@
+[submodule "smtest_module"]
+	path = smtest_module
+	url = https://github.com/otkrsk/smtest_module
